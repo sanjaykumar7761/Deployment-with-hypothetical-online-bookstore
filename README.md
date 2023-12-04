@@ -72,3 +72,23 @@ spring.datasource.username=root
 spring.datasource.password=test
 
 spring.jpa.hibernate.ddl-auto=update
+
+
+I am using throw  S3. I have deployment
+
+first go to AWS Site the sign then after I have create database throw useing RDS then I selected IAM there I have created elasticBeans-service-role 
+that time I have seclted field
+1. AWSElasticBeanstalkWorkerTier
+2. AWSElasticBeanstalkWebTier
+3. AWSElasticBeanstalkMulticontainerDocker
+
+i have create my role 
+
+then next step 
+I have selceted Elastic Beanstalk 
+clik create appliation then i have done other requirement
+
+after deployment project link
+
+Domain
+Hypotheticalonlinebookstore-env.eba-aa3pcrqi.eu-north-1.elasticbeanstalk.com
